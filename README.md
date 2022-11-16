@@ -1,3 +1,9 @@
+```sh
+$ oapi-codegen -version
+github.com/deepmap/oapi-codegen/cmd/oapi-codegen
+v1.12.2
+```
+
 # oapi-codegen-unresolvedrefs
 
 Demonstrates a problem with oapi-codegen.
