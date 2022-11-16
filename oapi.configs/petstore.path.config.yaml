@@ -1,0 +1,9 @@
+package: petstore
+generate:
+  chi-server: true
+  models: true
+  embedded-spec: true
+import-mapping:
+  ../models/petstore.model.yaml: oapi-codegen-refpb.com/pets
+
+# output: t.go
